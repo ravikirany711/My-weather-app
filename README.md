@@ -6,7 +6,7 @@ It project is a weather application that calls the openweathermap api to render 
 
 ## Installation
 
-Same old way...
+
 
 * git clone 
 * npm install
